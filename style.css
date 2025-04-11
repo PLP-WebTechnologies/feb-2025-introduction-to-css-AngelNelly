@@ -1,0 +1,44 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #d4a886;
+  color: #333;
+}
+
+.parent {
+  margin: 0 auto;
+  width: 80%;
+  margin: auto;
+  padding: auto;
+  font-size: 50px;
+}
+
+#neo1 {
+  font-size: 20px;
+  color: blue;
+  font-weight: bold;
+}
+
+.neo2,
+.neo3 {
+  font-size: 20px;
+  color: red;
+  font-weight: bold;
+}
+
+h1 {
+  width: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+p {
+  width: 80%;
+  color: aquamarine;
+  text-align: center;
+  font-size: 20px;
+  padding: 20px;
+  margin: 20px;
+  border: solid 2px #333;
+  border-radius: 20px;
+}
